@@ -1,0 +1,4 @@
+Row,Biomass,Cover,Wavelength,Regularity,Celerity,sw_mean,sw_cv
+mean,9.2,0.43,58,0.71,2.9e-05,0.32,0.44
+R-sensitivity,1.7,1.8,-0.88,-0.34,-0.53,1.5,0.95
+cva-sensitivity,0.041,-0.056,-0.22,-0.39,-1.1,-0.21,0.37
